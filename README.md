@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello motherfathers dear childrens.Have fun stalking.
+Hey so cool of you to check me out XD
 
 <!--
 **pratikpz/pratikpz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikpz&layout=donut)](https://github.com/pratikpz/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikpz&show_icons=true&theme=radical)
 
