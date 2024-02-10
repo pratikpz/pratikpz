@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 
-![](https://komarev.com/ghpvc/?username=pratikzz)
+![](https://komarev.com/ghpvc/?username=pratikpz)
 
 
 
