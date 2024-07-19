@@ -1,7 +1,7 @@
 Learn, Un-learn , Re-learn ...
 
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,java,nodejs,express,shell,jenkins,npm,php,postgres,mongodb,mysql,react,redux,nextjs,rust,gitlab,nginx,vercel,jest,graphql,deno,nestjs)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,java,nodejs,express,aws,jenkins,npm,php,postgres,mongodb,mysql,react,redux,nextjs,rust,gitlab,nginx,vercel,jest,graphql,deno,nestjs)
 
 [![Top Langs](https://github-readme-stats-mu-ashen-25.vercel.app/api/top-langs/?username=pratikpz&layout=pie&hide=php)](https://github.com/anuraghazra/github-readme-stats)
 
