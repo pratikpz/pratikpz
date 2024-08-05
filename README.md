@@ -3,7 +3,7 @@ Learn, Un-learn , Re-learn ...
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,java,nodejs,express,aws,jenkins,npm,php,postgres,mongodb,mysql,react,redux,nextjs,rust,gitlab,nginx,vercel,jest,graphql,deno,nestjs)
 
-[![Top Langs](github-readme-stats.vercel.app/api/top-langs/?username=pratikpz&layout=pie&hide=php)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](github-readme-stats-ruah.vercel.app/api/top-langs/?username=pratikpz&layout=pie&hide=php)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
